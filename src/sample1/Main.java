@@ -11,18 +11,19 @@ public class Main {
 		System.out.println(a * b);
 		System.out.println(a + b);
 		System.out.println(a - b);
-		
+
 		int c = 100;
 		System.out.println(c * a);
 
 		a = 6;
 		b = 1;
 		System.out.println(a * b);
-		
+
 		System.out.println(a + b);
 
 		// why??
 		// how are you??
+		// I'm fine!! HOw about you??
 
 	}
 
