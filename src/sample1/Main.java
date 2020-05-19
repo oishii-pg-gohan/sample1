@@ -25,7 +25,9 @@ public class Main {
 		// how are you??
 		// I'm fine!! HOw about you??
 		// What time is it now??
+		// It's pm 5 o'clock
 		// I'm sorry
+		// I have no idea...
 
 	}
 
