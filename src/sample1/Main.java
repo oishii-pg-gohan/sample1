@@ -11,6 +11,9 @@ public class Main {
 		System.out.println(a * b);
 		System.out.println(a + b);
 		System.out.println(a - b);
+		
+		int c = 100;
+		System.out.println(c * a);
 
 	}
 
